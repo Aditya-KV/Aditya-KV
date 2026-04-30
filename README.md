@@ -38,27 +38,23 @@
 
 ## 🖥️ Neon System Console
 
-```txt
-> Initializing Aditya.exe
-> Loading AI modules.................. DONE
-> Loading Web Dev engine.............. DONE
-> Connecting to project database...... DONE
-> Activating builder mode............. DONE
-> Current mission: Build, Break, Fix, Improve
-```
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI%20MODE-ACTIVE-00f7ff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/WEB%20MODE-ACTIVE-ff00ff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DEBUG%20MODE-ALWAYS%20ON-00ff99?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PROJECTS-LOADING-orange?style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=700&center=true&vCenter=true&width=850&color=00F7FF&lines=%3E+Initializing+Aditya.exe...;%3E+Loading+AI+modules...+DONE;%3E+Starting+Web+Dev+engine...+DONE;%3E+Connecting+project+database...+DONE;%3E+Activating+builder+mode...+ONLINE;%3E+Mission:+Build,+Debug,+Improve" alt="Neon Console Typing" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SYSTEM-Aditya.exe-00f7ff?style=for-the-badge&logo=windowsterminal&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20MODULES-LOADED-ff00ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/WEB%20ENGINE-RUNNING-00ff99?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DATABASE-CONNECTED-39ff14?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DEBUG%20MODE-ALWAYS%20ON-orange?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20,24,30&height=90&section=header&text=BUILD%20%E2%86%92%20BREAK%20%E2%86%92%20FIX%20%E2%86%92%20IMPROVE&fontSize=26&fontColor=ffffff&animation=twinkling" />
 
 </div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" />
 
 ## 🧬 Core Identity
 

@@ -1,49 +1,69 @@
+<!-- Keep your GIF here: assets/website-building.gif -->
+
+<img align="right" src="./assets/website-building.gif" width="170" alt="Website Building Animation" />
+
 <div align="center">
 
-# Hey, I'm Aditya 👋
+# 🎮 Welcome to Aditya's Dev World
 
-### AI & ML Student • Full-Stack Developer • Building Practical Tech Projects
+### Player Class: AI & ML Student • Full-Stack Developer • Tech Explorer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Learner;Full-Stack+Web+Developer;Python+%7C+JavaScript+%7C+React+%7C+Node.js;Building+AI%2C+ML+and+Web+Projects;Learning+by+Building+Real+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Loading+Developer+Profile...;Entering+AI+%26+ML+World...;Unlocking+Full-Stack+Skills...;Building+Projects+Like+Game+Levels...;Mission:+Learn,+Build,+Deploy,+Repeat" alt="Typing SVG" />
 
 </div>
+
+<br clear="right"/>
 
 ---
 
 <div align="center">
 
-
-<img src="https://komarev.com/ghpvc/?username=Aditya-KV&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Aditya-KV&label=Profile%20Visitors&color=blueviolet&style=for-the-badge" />
 
 <a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/Message-Send%20Mail-red?style=for-the-badge&logo=gmail" />
 </a>
 
 <a href="https://www.linkedin.com/in/your-linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/Ally-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="https://your-portfolio-link.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome" />
+  <img src="https://img.shields.io/badge/Portal-Portfolio-green?style=for-the-badge&logo=google-chrome" />
 </a>
 
 </div>
 
 ---
 
-## About Me
+## 🧑‍💻 Player Profile
 
-I am an Artificial Intelligence and Machine Learning student interested in building real-world projects using AI, ML, web development, backend systems, and data-driven applications.
+```txt
+Name       : Aditya
+Role       : AI & ML Student + Full-Stack Developer
+Main Quest : Build real-world AI, ML, and web projects
+XP Source  : Learning by building
+Current Map: Machine Learning, React, Node.js, MongoDB, APIs
+Power-Up   : Curiosity + Consistent Practice
+```
 
-- Currently learning Machine Learning, Deep Learning, React, Node.js, Express.js, MongoDB, and API development
-- Interested in AI projects, anomaly detection, computer vision, sign detection, and full-stack applications
-- Building projects that combine frontend, backend, and machine learning services
-- Exploring practical project development, clean UI design, intelligent automation, and deployment
-- Learning by building projects, improving documentation, and solving practical problems
+I am an Artificial Intelligence and Machine Learning student interested in building practical projects using AI, ML, web development, backend systems, and data-driven applications.
+
+My goal is simple: learn concepts deeply, build useful projects, improve documentation, and level up one project at a time.
 
 ---
 
-## Tech Stack
+## 🗺️ Current Quest Log
+
+- Learning Machine Learning, Deep Learning, React, Node.js, Express.js, MongoDB, and API development
+- Building projects that combine frontend, backend, and machine learning services
+- Exploring anomaly detection, computer vision, sign detection, and AI-powered applications
+- Improving GitHub documentation, UI design, deployment, and clean project structure
+- Practicing full-stack development by creating real-world project workflows
+
+---
+
+## 🧰 Inventory / Tech Stack
 
 <div align="center">
 
@@ -55,18 +75,49 @@ I am an Artificial Intelligence and Machine Learning student interested in build
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/JavaScript-Web%20Development-yellow?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js" />
-<img src="https://img.shields.io/badge/MongoDB-Database-brightgreen?style=for-the-badge&logo=mongodb" />
-<img src="https://img.shields.io/badge/Machine%20Learning-AI-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-Main%20Weapon-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/JavaScript-Speed%20Skill-yellow?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/React-Frontend%20Magic-blue?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Node.js-Backend%20Engine-green?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/MongoDB-Database%20Storage-brightgreen?style=for-the-badge&logo=mongodb" />
+<img src="https://img.shields.io/badge/Machine%20Learning-AI%20Power-purple?style=for-the-badge" />
 
 </div>
 
 ---
 
-## Featured Projects
+## 🌟 Skill Tree
+
+```txt
+AI / ML Path
+├── Data Preprocessing
+├── Feature Engineering
+├── Supervised Learning
+├── Unsupervised Learning
+├── Anomaly Detection
+├── Computer Vision
+└── Model Evaluation
+
+Full-Stack Path
+├── HTML, CSS, JavaScript
+├── React Components
+├── Routing and State Management
+├── Node.js and Express.js
+├── REST APIs
+├── MongoDB CRUD
+└── Authentication and Deployment
+
+Developer Path
+├── Git and GitHub
+├── Project Documentation
+├── Clean Folder Structure
+├── UI / UX Practice
+└── Problem Solving
+```
+
+---
+
+## 🚀 Featured Missions
 
 <div align="center">
 
@@ -91,34 +142,35 @@ I am an Artificial Intelligence and Machine Learning student interested in build
 ---
 
 <details>
-<summary>Anomaly Detection in Satellite Telemetry</summary>
+<summary>🛰️ Mission 1: Anomaly Detection in Satellite Telemetry</summary>
 
 <br>
 
-A machine learning project focused on detecting abnormal patterns in satellite telemetry data.  
-The project is useful for identifying unusual behavior, faults, or irregular readings in telemetry-based systems.
+A machine learning project focused on detecting abnormal patterns in satellite telemetry data.
+
+This mission is about finding unusual behavior, faults, or irregular readings in telemetry-based systems.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-Project-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Anomaly%20Detection-ML-purple?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Analysis-Python-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Model%20Evaluation-Metrics-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mission-Type:%20ML-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Enemy-Anomalies-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tool-Python-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Reward-Model%20Evaluation-green?style=for-the-badge" />
 
 <br><br>
 
-Main focus:
+Quest objectives:
 
-- Detecting abnormal telemetry patterns
-- Understanding data behavior
-- Applying machine learning models
-- Evaluating model performance
-- Working with real-world anomaly detection use cases
+- Detect abnormal telemetry patterns
+- Understand data behavior
+- Apply machine learning models
+- Evaluate model performance
+- Work with real-world anomaly detection use cases
 
 <br>
 
 <a href="https://github.com/Aditya-KV/Anomaly-detection-in-satellite-telemetry">
-  <img src="https://img.shields.io/badge/View%20Repository-GitHub-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Open%20Mission-GitHub-black?style=for-the-badge&logo=github" />
 </a>
 
 </details>
@@ -126,23 +178,24 @@ Main focus:
 ---
 
 <details>
-<summary>Sign Detector AI</summary>
+<summary>🖐️ Mission 2: Sign Detector AI</summary>
 
 <br>
 
-An AI-based sign detection project that combines web development and machine learning concepts.  
-This project focuses on detecting signs using an AI/ML-based workflow.
+An AI-based sign detection project that combines web development and machine learning concepts.
+
+This mission focuses on detecting signs using an AI/ML-based workflow.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AI-Project-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JavaScript-Web-yellow?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/Computer%20Vision-ML-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Full%20Stack-Workflow-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mission-Type:%20AI-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Skill-Computer%20Vision-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Web-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/Mode-Full%20Stack-orange?style=for-the-badge" />
 
 <br><br>
 
-Main focus:
+Quest objectives:
 
 - Sign detection
 - AI/ML integration
@@ -153,7 +206,7 @@ Main focus:
 <br>
 
 <a href="https://github.com/Aditya-KV/sign-detector-ai">
-  <img src="https://img.shields.io/badge/View%20Repository-GitHub-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Open%20Mission-GitHub-black?style=for-the-badge&logo=github" />
 </a>
 
 </details>
@@ -161,23 +214,24 @@ Main focus:
 ---
 
 <details>
-<summary>Resume Genie</summary>
+<summary>📄 Mission 3: Resume Genie</summary>
 
 <br>
 
-A resume-related web project focused on helping users generate or improve resumes through a digital interface.  
-This project is useful for practicing frontend development, UI design, and automation-based application logic.
+A resume-related web project focused on helping users generate or improve resumes through a digital interface.
+
+This mission helps practice frontend development, UI design, and automation-based application logic.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Resume%20Builder-Web%20App-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JavaScript-Frontend-yellow?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/UI%20Design-Project-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Automation-Tool-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mission-Type:%20Web%20App-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Skill-UI%20Design-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Logic-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/Reward-Automation-purple?style=for-the-badge" />
 
 <br><br>
 
-Main focus:
+Quest objectives:
 
 - Resume generation
 - Frontend development
@@ -188,7 +242,7 @@ Main focus:
 <br>
 
 <a href="https://github.com/Aditya-KV/resume-genie">
-  <img src="https://img.shields.io/badge/View%20Repository-GitHub-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Open%20Mission-GitHub-black?style=for-the-badge&logo=github" />
 </a>
 
 </details>
@@ -196,23 +250,24 @@ Main focus:
 ---
 
 <details>
-<summary>Full-Stack Lab</summary>
+<summary>🧪 Mission 4: Full-Stack Lab</summary>
 
 <br>
 
-A practice repository for learning and improving full-stack web development skills.  
-This repository is useful for experimenting with frontend, backend, APIs, and database-related concepts.
+A practice repository for learning and improving full-stack web development skills.
+
+This mission is useful for experimenting with frontend, backend, APIs, and database concepts.
 
 <br><br>
 
+<img src="https://img.shields.io/badge/Mission-Type:%20Practice-purple?style=for-the-badge" />
 <img src="https://img.shields.io/badge/HTML-Frontend-orange?style=for-the-badge&logo=html5" />
 <img src="https://img.shields.io/badge/CSS-Styling-blue?style=for-the-badge&logo=css3" />
 <img src="https://img.shields.io/badge/JavaScript-Web-yellow?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/Full%20Stack-Learning-purple?style=for-the-badge" />
 
 <br><br>
 
-Main focus:
+Quest objectives:
 
 - HTML, CSS, and JavaScript
 - Responsive web development
@@ -223,17 +278,17 @@ Main focus:
 <br>
 
 <a href="https://github.com/Aditya-KV/Full-stack-Lab">
-  <img src="https://img.shields.io/badge/View%20Repository-GitHub-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Open%20Mission-GitHub-black?style=for-the-badge&logo=github" />
 </a>
 
 </details>
 
 ---
 
-## Interactive Learning Sections
+## 🧠 Training Grounds
 
 <details>
-<summary>AI / ML Interests</summary>
+<summary>AI / ML Training Area</summary>
 
 <br>
 
@@ -251,7 +306,7 @@ Main focus:
 </details>
 
 <details>
-<summary>Web Development Interests</summary>
+<summary>Web Development Training Area</summary>
 
 <br>
 
@@ -269,7 +324,7 @@ Main focus:
 </details>
 
 <details>
-<summary>Currently Learning</summary>
+<summary>Currently Unlocking</summary>
 
 <br>
 
@@ -280,12 +335,12 @@ Main focus:
 - Git and GitHub project documentation
 - Deployment and hosting basics
 - Clean project structure
-- Building better UI/UX for projects
+- Better UI/UX for projects
 
 </details>
 
 <details>
-<summary>Project Goals</summary>
+<summary>Final Boss Goals</summary>
 
 <br>
 
@@ -300,7 +355,7 @@ Main focus:
 
 ---
 
-## GitHub Stats
+## 📊 Player Stats
 
 <div align="center">
 
@@ -312,7 +367,7 @@ Main focus:
 
 ---
 
-## GitHub Streak
+## 🔥 Daily Streak
 
 <div align="center">
 
@@ -322,7 +377,7 @@ Main focus:
 
 ---
 
-## GitHub Trophies
+## 🏆 Achievements Unlocked
 
 <div align="center">
 
@@ -332,7 +387,7 @@ Main focus:
 
 ---
 
-## Contribution Activity
+## 📈 Activity Map
 
 <div align="center">
 
@@ -342,7 +397,7 @@ Main focus:
 
 ---
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -352,12 +407,12 @@ Main focus:
 
 ---
 
-## Connect With Me
+## 🤝 Join My Party
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/your-linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-Aditya-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="mailto:your-email@gmail.com">
@@ -374,8 +429,8 @@ Main focus:
 
 <div align="center">
 
-### Learning by building. Improving one project at a time 🚀
+### Game Status: Still Learning. Still Building. Still Leveling Up. 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub+profile;Feel+free+to+explore+my+repositories;More+projects+coming+soon..." alt="Footer Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+developer+world;Explore+my+repositories+to+see+my+missions;More+projects+will+be+unlocked+soon..." alt="Footer Typing SVG" />
 
 </div>

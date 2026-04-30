@@ -11,17 +11,7 @@
 ---
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <h1>Hey, I'm Aditya 👋</h1>
-      <h3>AI & ML Student • Full-Stack Developer • Building Practical Tech Projects</h3>
-    </td>
-    <td align="center">
-      <img src="./assets/website-building.gif" width="140" alt="Website Building Animation" />
-    </td>
-  </tr>
-</table>
+
 
 <img src="https://komarev.com/ghpvc/?username=Aditya-KV&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 

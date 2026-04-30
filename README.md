@@ -1,20 +1,21 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=230&section=header&text=Aditya.exe&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Full-Stack%20Developer&descSize=20&descAlignY=58" />
+
 <div align="center">
 
-# 🕹️ Aditya.exe
-
-### AI & ML Learner • Full-Stack Builder • Project-Based Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=900&center=true&vCenter=true&width=850&lines=System+Booting...;Loading+Developer+Mode...;Compiling+Ideas+into+Projects...;Training+Models...;Building+Full-Stack+Apps...;Debugging+Life+One+Error+at+a+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&center=true&vCenter=true&width=900&color=00F7FF&lines=System+Booting...;Loading+Developer+Mode...;Compiling+Ideas+into+Projects...;Training+AI+Models...;Building+Full-Stack+Applications...;Debugging+Life+One+Error+at+a+Time" alt="Typing SVG" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Aditya-KV&label=Visitors&color=blueviolet&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Mode-Learning%20%2B%20Building-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20Web-blue?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Aditya-KV&label=VISITORS&color=blueviolet&style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff99?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MODE-LEARNING%20%2B%20BUILDING-ff00ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20ML%20%7C%20WEB-00d9ff?style=for-the-badge" />
 
 </div>
 
----
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=4" />
 
 ## 🧭 Developer Snapshot
 
@@ -24,52 +25,94 @@
 |---|---|
 | 👤 Name | Aditya |
 | 🎓 Domain | Artificial Intelligence & Machine Learning |
-| 🧩 Builder Type | Full-Stack + AI Project Developer |
+| 🧩 Builder Type | AI + Full-Stack Project Developer |
 | ⚙️ Working Style | Learn → Build → Break → Fix → Improve |
 | 🚀 Goal | Create useful AI, ML, and web-based projects |
 | 🧠 Current Focus | React, Node.js, MongoDB, APIs, Machine Learning |
 
 </div>
 
----
+<br>
 
-## 🧬 Core Identity
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" />
 
-I enjoy building practical technology projects that combine machine learning, web development, backend systems, and clean user interfaces.
+## 🖥️ Neon System Console
 
-For me, every project is not just code. It is a small experiment where I learn how frontend, backend, databases, APIs, and AI models work together in the real world.
-
----
-
-## 🧰 Tech Arsenal
+```txt
+> Initializing Aditya.exe
+> Loading AI modules.................. DONE
+> Loading Web Dev engine.............. DONE
+> Connecting to project database...... DONE
+> Activating builder mode............. DONE
+> Current mission: Build, Break, Fix, Improve
+```
 
 <div align="center">
 
-### Languages
+<img src="https://img.shields.io/badge/AI%20MODE-ACTIVE-00f7ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/WEB%20MODE-ACTIVE-ff00ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DEBUG%20MODE-ALWAYS%20ON-00ff99?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PROJECTS-LOADING-orange?style=for-the-badge" />
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" />
+
+## 🧬 Core Identity
+
+I enjoy building practical technology projects that combine machine learning, web development, backend systems, databases, APIs, and clean user interfaces.
+
+For me, every project is not just code. It is a small experiment where I learn how frontend, backend, databases, APIs, and AI models work together in real-world applications.
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" />
+
+## ⚡ RGB Tech Arsenal
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&center=true&vCenter=true&width=750&color=FF00FF&lines=Loading+Tech+Stack...;Weapons+Unlocked...;Frontend+%2B+Backend+%2B+AI+Mode+Ready" alt="Tech Typing SVG" />
 
 <br><br>
 
-### Frontend
+### 🧠 AI / ML Weapons
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
-
-<br><br>
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,flask" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn" />
 
 <br><br>
 
-### Tools
+<img src="https://img.shields.io/badge/Python-00F7FF?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF00FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Vision-00FF99?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Analysis-FF3131?style=for-the-badge" />
+
+<br><br>
+
+### 🌐 Full-Stack Gear
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,flask,tailwind" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/React-00D9FF?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-00FF99?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-39FF14?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/API%20Development-FF3131?style=for-the-badge" />
+
+<br><br>
+
+### 🛠️ Dev Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 
 </div>
 
----
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" />
 
 ## 🧪 Current Lab Experiments
 
@@ -78,7 +121,7 @@ For me, every project is not just code. It is a small experiment where I learn h
 | Experiment | What I Am Building / Learning |
 |---|---|
 | 🤖 AI Projects | ML workflows, prediction systems, model evaluation |
-| 🧠 Anomaly Detection | Detecting unusual patterns in data |
+| 🛰️ Anomaly Detection | Detecting unusual patterns in data |
 | 🖐️ Computer Vision | Image-based detection and sign recognition |
 | 🌐 Full-Stack Apps | React frontend + Node backend + database |
 | 🔐 Backend Systems | APIs, authentication, routing, and data handling |
@@ -86,24 +129,28 @@ For me, every project is not just code. It is a small experiment where I learn h
 
 </div>
 
----
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" />
 
 ## 🧠 Skill Matrix
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-Strong-blue?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/JavaScript-Growing-yellow?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/React-Building-blue?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/Node.js-Learning-green?style=for-the-badge&logo=node.js" />
-<img src="https://img.shields.io/badge/MongoDB-Practicing-brightgreen?style=for-the-badge&logo=mongodb" />
-<img src="https://img.shields.io/badge/Machine%20Learning-Exploring-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-Strong-00f7ff?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-Growing-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-Building-00d9ff?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-Learning-00ff99?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-Practicing-39ff14?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-Exploring-ff00ff?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Computer%20Vision-Experimenting-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/API%20Development-Practicing-red?style=for-the-badge" />
 
 </div>
 
----
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" />
 
 ## 🗺️ Learning Roadmap
 
@@ -121,7 +168,26 @@ flowchart LR
     J --> E
 ```
 
----
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" />
+
+## 🚀 Active Missions
+
+<div align="center">
+
+| Mission | Type | Status |
+|---|---|---|
+| 🛰️ Satellite Telemetry Anomaly Detection | Machine Learning | Improving |
+| 🖐️ Sign Detector AI | AI + Full Stack | Building |
+| 📄 Resume Genie | Web App | Designing |
+| 🧪 Full-Stack Lab | Practice Repository | Expanding |
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" />
 
 ## 🚀 Featured Projects
 
@@ -145,7 +211,9 @@ flowchart LR
 
 </div>
 
----
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" />
 
 ## 🛰️ Project Console
 
@@ -241,7 +309,27 @@ Main idea:
 
 </details>
 
----
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" />
+
+## 💬 Developer Log
+
+```txt
+Error: Skill limit not found
+Fix: Keep learning, building, and debugging
+Status: Still compiling...
+```
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=850&color=00FF99&lines=Build+small.;Improve+daily.;Debug+patiently.;Document+clearly.;Deploy+confidently." alt="Developer Log Typing SVG" />
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" />
 
 ## 📊 GitHub Dashboard
 
@@ -253,9 +341,7 @@ Main idea:
 
 </div>
 
----
-
-## 🔥 Contribution Streak
+<br>
 
 <div align="center">
 
@@ -263,9 +349,7 @@ Main idea:
 
 </div>
 
----
-
-## 🏆 Trophy Room
+<br>
 
 <div align="center">
 
@@ -273,7 +357,9 @@ Main idea:
 
 </div>
 
----
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" />
 
 ## 📈 Activity Graph
 
@@ -283,7 +369,21 @@ Main idea:
 
 </div>
 
----
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" />
+
+## 🧊 3D Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Aditya-KV/Aditya-KV/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" />
 
 ## 🐍 Contribution Snake
 
@@ -293,32 +393,46 @@ Main idea:
 
 </div>
 
----
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" />
 
 ## 📡 Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/your-linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-00d9ff?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Send%20Mail-red?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/Gmail-Send%20Mail-ff3131?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://your-portfolio-link.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-00ff99?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 </div>
 
----
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" />
 
 <div align="center">
 
 ### Building. Debugging. Learning. Repeating.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile;Explore+my+repositories;More+projects+coming+soon..." alt="Footer Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=850&color=00F7FF&lines=Thanks+for+visiting+my+developer+world;More+projects+loading+soon...;System+Status:+Still+Learning,+Still+Building" alt="Footer Typing SVG" />
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=150&section=footer&animation=twinkling" />
+
+<!--
+Note:
+The normal stats, badges, typing SVG, activity graph, and capsule animations will work directly.
+
+The 3D Contribution Graph and Contribution Snake need GitHub Actions setup.
+If they do not appear immediately, remove these sections or set up their workflows later.
+-->

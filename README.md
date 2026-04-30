@@ -1,7 +1,3 @@
-<!-- Keep your GIF here: assets/website-building.gif -->
-
-<img align="right" src="./assets/website-building.gif" width="170" alt="Website Building Animation" />
-
 <div align="center">
 
 # 🎮 Welcome to Aditya's Dev World
@@ -11,8 +7,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Loading+Developer+Profile...;Entering+AI+%26+ML+World...;Unlocking+Full-Stack+Skills...;Building+Projects+Like+Game+Levels...;Mission:+Learn,+Build,+Deploy,+Repeat" alt="Typing SVG" />
 
 </div>
-
-<br clear="right"/>
 
 ---
 
@@ -36,20 +30,66 @@
 
 ---
 
-## 🧑‍💻 Player Profile
+## 🕹️ Player Profile
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Player-Aditya-blueviolet?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Class-AI%20%26%20ML%20Student-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Build-Full--Stack%20Developer-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Leveling%20Up-orange?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=850&lines=Character+Selected:+Aditya;Class:+AI+%26+ML+Student;Skill+Mode:+Full-Stack+Development;Main+Quest:+Build+Real-World+Tech+Projects;XP+Method:+Learn+by+Building" alt="Player Profile Typing SVG" />
+
+</div>
+
+---
+
+### 🎮 Character Card
 
 ```txt
-Name       : Aditya
-Role       : AI & ML Student + Full-Stack Developer
-Main Quest : Build real-world AI, ML, and web projects
-XP Source  : Learning by building
-Current Map: Machine Learning, React, Node.js, MongoDB, APIs
-Power-Up   : Curiosity + Consistent Practice
+┌───────────────────────────────────────────────┐
+│              PLAYER INFORMATION               │
+├───────────────────────────────────────────────┤
+│ Name        : Aditya                           │
+│ Class       : AI & ML Student                  │
+│ Sub-Class   : Full-Stack Developer             │
+│ Main Quest  : Build real-world tech projects   │
+│ XP Source   : Learning by building             │
+│ Power-Up    : Curiosity + Consistent Practice  │
+│ Current Map : ML, React, Node.js, MongoDB APIs │
+└───────────────────────────────────────────────┘
 ```
 
-I am an Artificial Intelligence and Machine Learning student interested in building practical projects using AI, ML, web development, backend systems, and data-driven applications.
+---
 
-My goal is simple: learn concepts deeply, build useful projects, improve documentation, and level up one project at a time.
+### ⚡ Power Stats
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20%26%20ML-LVL%208%2F10-blueviolet?style=for-the-badge" />
+<br>
+<img src="https://img.shields.io/badge/Frontend-LVL%208%2F10-blue?style=for-the-badge" />
+<br>
+<img src="https://img.shields.io/badge/Backend-LVL%207%2F10-green?style=for-the-badge" />
+<br>
+<img src="https://img.shields.io/badge/Database-LVL%206%2F10-brightgreen?style=for-the-badge" />
+<br>
+<img src="https://img.shields.io/badge/Problem%20Solving-LVL%208%2F10-orange?style=for-the-badge" />
+
+</div>
+
+---
+
+### 🧩 About My Journey
+
+I am currently on a developer journey where every project is a new level, every bug is a mini boss, and every solved problem gives me more XP.
+
+My main focus is building practical projects using Artificial Intelligence, Machine Learning, frontend development, backend systems, APIs, and databases.
+
+Current mission: learn deeply, build consistently, document clearly, and keep improving one project at a time.
 
 ---
 
@@ -86,34 +126,81 @@ My goal is simple: learn concepts deeply, build useful projects, improve documen
 
 ---
 
-## 🌟 Skill Tree
+## 🌟 Skill Tree / Ability Loadout
+
+<div align="center">
+
+### 🧠 AI / ML Class
+
+<img src="https://img.shields.io/badge/Data%20Preprocessing-Lv.7-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Feature%20Engineering-Lv.6-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Supervised%20Learning-Lv.7-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Unsupervised%20Learning-Lv.6-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Anomaly%20Detection-Lv.8-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Vision-Lv.6-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Model%20Evaluation-Lv.7-brightgreen?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,sklearn" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⚔️ Full-Stack Class
+
+<img src="https://img.shields.io/badge/HTML%20%2F%20CSS-Lv.8-orange?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/JavaScript-Lv.7-yellow?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/React-Lv.7-blue?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Node.js-Lv.6-green?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/Express.js-Lv.6-black?style=for-the-badge&logo=express" />
+<img src="https://img.shields.io/badge/MongoDB-Lv.6-brightgreen?style=for-the-badge&logo=mongodb" />
+<img src="https://img.shields.io/badge/REST%20APIs-Lv.7-purple?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🛠️ Developer Tools Class
+
+<img src="https://img.shields.io/badge/Git%20%26%20GitHub-Lv.7-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/VS%20Code-Lv.8-blue?style=for-the-badge&logo=visualstudiocode" />
+<img src="https://img.shields.io/badge/Project%20Docs-Lv.7-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Clean%20Structure-Lv.7-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/UI%20%2F%20UX-Lv.6-pink?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Problem%20Solving-Lv.8-red?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+
+</div>
+
+<br>
+
+<details>
+<summary>🎯 Current Upgrade Path</summary>
+
+<br>
 
 ```txt
-AI / ML Path
-├── Data Preprocessing
-├── Feature Engineering
-├── Supervised Learning
-├── Unsupervised Learning
-├── Anomaly Detection
-├── Computer Vision
-└── Model Evaluation
-
-Full-Stack Path
-├── HTML, CSS, JavaScript
-├── React Components
-├── Routing and State Management
-├── Node.js and Express.js
-├── REST APIs
-├── MongoDB CRUD
-└── Authentication and Deployment
-
-Developer Path
-├── Git and GitHub
-├── Project Documentation
-├── Clean Folder Structure
-├── UI / UX Practice
-└── Problem Solving
+Main Mission        : Build stronger AI + Full-Stack projects
+Current Focus       : React, Node.js, MongoDB, ML integration
+Next Unlock         : Deployment, authentication, dashboards
+Boss Battle         : End-to-end AI web application
+Long-Term Goal      : Strong developer portfolio
 ```
+
+</details>
 
 ---
 

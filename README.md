@@ -317,18 +317,61 @@ Core focus:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=3" />
 
-## 💬 Dev Log
+## 💬 Dev Log / Checkpoint Room
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=850&center=true&vCenter=true&width=900&color=00FF99&lines=Checkpoint+saved...;Bug+appeared:+Confusion;Weapon+equipped:+Practice;XP+gained:+Better+logic;Next+level:+Cleaner+projects+and+stronger+code" alt="Dev Log Typing SVG" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CURRENT%20BOSS-Confusing%20Bugs-ff3131?style=for-the-badge" />
+<img src="https://img.shields.io/badge/WEAPON-Practice-00f7ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/POWER--UP-Curiosity-ff00ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/XP-Growing-00ff99?style=for-the-badge" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+| 🎮 Game Event | 🚀 Progress |
+|---|---|
+| 🐞 Bug Encountered | Confusing logic and unexpected errors |
+| 🔧 Patch Applied | Practice, debugging, and better understanding |
+| ⚔️ Main Weapon | Python, JavaScript, and problem-solving |
+| 🧪 Side Quest | Build cleaner projects with better structure |
+| 💎 XP Reward | Stronger logic, cleaner UI, better documentation |
+| 🏁 Next Checkpoint | AI + Full-Stack portfolio upgrade |
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20,24,30&height=95&section=header&text=BUGS%20ARE%20SIDE%20QUESTS%20%F0%9F%90%9E&fontSize=28&fontColor=ffffff&animation=twinkling" />
+
+</div>
+
+<br>
 
 ```txt
-Bug found        : Confusion
-Fix applied      : Practice
-Build status     : Improving
-Next checkpoint  : Better projects, cleaner code, stronger portfolio
+╔════════════════════════════════════════════════════╗
+║                 SAVE FILE 01                      ║
+╠════════════════════════════════════════════════════╣
+║ Player        : Aditya                            ║
+║ Current Mode  : Learning by Building              ║
+║ Active Quest  : AI + Full-Stack Development       ║
+║ Challenge     : Turn ideas into working projects  ║
+║ Status        : Not perfect, but upgrading daily  ║
+╚════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=900&color=00FF99&lines=Build+small.;Think+clearly.;Debug+patiently.;Document+properly.;Deploy+confidently.;Repeat+the+cycle." alt="Developer Log Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=850&color=FF00FF&lines=Build+it.;Break+it.;Fix+it.;Understand+it.;Upgrade+it." alt="Dev Motto Typing SVG" />
 
 </div>
 

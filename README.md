@@ -24,7 +24,7 @@
   <tr>
     <td width="32%" valign="top" align="center">
       <br/>
-      <img src="./assets/avatar-v3.png" width="220" alt="Pixel art of Aditya in profile, coding on a laptop in a cafe with a boba and a light blue henley" />
+      <img src="./assets/avatar-v4.png" width="240" alt="Pixel art of a developer in a blue henley sipping boba and coding in a cafe at night" />
       <br/><br/>
       <b>Aditya K V</b><br/>
       <code>@Aditya-KV</code>

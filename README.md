@@ -121,18 +121,18 @@ Smaller projects: [Resume Genie](https://github.com/Aditya-KV/resume-genie) (res
   <table border="0">
     <tr>
       <td>
-        <a href="https://github.com/Aditya-KV/Anomaly-detection-in-satellite-telemetry"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-KV&repo=Anomaly-detection-in-satellite-telemetry&bg_color=0d3b30&title_color=a8e3c4&text_color=d6efe2&icon_color=a8e3c4&border_color=1f6f57&border_radius=10" alt="Anomaly-detection-in-satellite-telemetry repository card" /></a>
+        <a href="https://github.com/Aditya-KV/Anomaly-detection-in-satellite-telemetry"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Aditya-KV&repo=Anomaly-detection-in-satellite-telemetry&bg_color=0d3b30&title_color=a8e3c4&text_color=d6efe2&icon_color=a8e3c4&border_color=1f6f57&border_radius=10" alt="Anomaly-detection-in-satellite-telemetry repository card" /></a>
       </td>
       <td>
-        <a href="https://github.com/Aditya-KV/kalakar-setu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-KV&repo=kalakar-setu&bg_color=0d3b30&title_color=a8e3c4&text_color=d6efe2&icon_color=a8e3c4&border_color=1f6f57&border_radius=10" alt="kalakar-setu repository card" /></a>
+        <a href="https://github.com/Aditya-KV/kalakar-setu"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Aditya-KV&repo=kalakar-setu&bg_color=0d3b30&title_color=a8e3c4&text_color=d6efe2&icon_color=a8e3c4&border_color=1f6f57&border_radius=10" alt="kalakar-setu repository card" /></a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/Aditya-KV/sign-detector-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-KV&repo=sign-detector-ai&bg_color=0d3b30&title_color=a8e3c4&text_color=d6efe2&icon_color=a8e3c4&border_color=1f6f57&border_radius=10" alt="sign-detector-ai repository card" /></a>
+        <a href="https://github.com/Aditya-KV/sign-detector-ai"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Aditya-KV&repo=sign-detector-ai&bg_color=0d3b30&title_color=a8e3c4&text_color=d6efe2&icon_color=a8e3c4&border_color=1f6f57&border_radius=10" alt="sign-detector-ai repository card" /></a>
       </td>
       <td>
-        <a href="https://github.com/Aditya-KV/resume-genie"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya-KV&repo=resume-genie&bg_color=0d3b30&title_color=a8e3c4&text_color=d6efe2&icon_color=a8e3c4&border_color=1f6f57&border_radius=10" alt="resume-genie repository card" /></a>
+        <a href="https://github.com/Aditya-KV/resume-genie"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Aditya-KV&repo=resume-genie&bg_color=0d3b30&title_color=a8e3c4&text_color=d6efe2&icon_color=a8e3c4&border_color=1f6f57&border_radius=10" alt="resume-genie repository card" /></a>
       </td>
     </tr>
   </table>
@@ -158,8 +158,8 @@ Smaller projects: [Resume Genie](https://github.com/Aditya-KV/resume-genie) (res
 ### GitHub activity
 
 <div align="center">
-  <a href="https://github.com/Aditya-KV"><img src="https://github-readme-stats.vercel.app/api?username=Aditya-KV&show_icons=true&bg_color=0d3b30&title_color=a8e3c4&text_color=d6efe2&icon_color=a8e3c4&border_color=1f6f57&border_radius=10" alt="GitHub stats" /></a>
-  <a href="https://github.com/Aditya-KV"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-KV&layout=compact&bg_color=0d3b30&title_color=a8e3c4&text_color=d6efe2&icon_color=a8e3c4&border_color=1f6f57&border_radius=10" alt="Top languages" /></a>
+  <a href="https://github.com/Aditya-KV"><img src="https://github-readme-stats-fast.vercel.app/api?username=Aditya-KV&show_icons=true&bg_color=0d3b30&title_color=a8e3c4&text_color=d6efe2&icon_color=a8e3c4&border_color=1f6f57&border_radius=10" alt="GitHub stats" /></a>
+  <a href="https://github.com/Aditya-KV"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aditya-KV&layout=compact&bg_color=0d3b30&title_color=a8e3c4&text_color=d6efe2&icon_color=a8e3c4&border_color=1f6f57&border_radius=10" alt="Top languages" /></a>
   <br/><br/>
   <a href="https://github.com/Aditya-KV"><img src="https://ghchart.rshah.org/1f6f57/Aditya-KV" alt="Contribution graph" width="100%" /></a>
 </div>

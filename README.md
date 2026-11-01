@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Aditya K V, AI/ML and full-stack developer" />
+<img src="./assets/banner.png" width="100%" alt="Dark ink illustration of a lone figure in a cloak on a misty shore" />
+
+<h1>Aditya K V</h1>
 
 <br/><br/>
 
@@ -22,7 +24,7 @@
   <tr>
     <td width="32%" valign="top" align="center">
       <br/>
-      <img src="./assets/avatar.png" width="160" alt="Pixel portrait of Aditya K V" />
+      <img src="./assets/avatar.png" width="160" alt="Pixel-art cartoon of Aditya K V" />
       <br/><br/>
       <b>Aditya K V</b><br/>
       <code>@Aditya-KV</code>

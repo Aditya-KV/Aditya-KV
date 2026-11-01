@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Dark ink illustration of a lone figure in a cloak on a misty shore" />
+<img src="./assets/banner.png" width="100%" alt="A lone climber on an icy ledge facing a storm-wrapped snow mountain under a full moon" />
 
 <h1>Aditya K V</h1>
 
